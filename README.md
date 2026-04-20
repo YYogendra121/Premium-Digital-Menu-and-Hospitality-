@@ -2,6 +2,25 @@
 Premium Digital Menu and Hospitality Interface
 
 Action: file_editor create /app/memory/PRD.md --file-text "# Maison Lumière — In-Residence Dining PRD
+All images loading now — 0 broken. Menu updated successfully.
+
+## Menu Expanded
+
+Added 6 categories with authentic dishes across cuisines:
+
+- **Breakfast** (4) — Avocado Toast, Smoked Salmon & Eggs, Artisan Granola Bowl, Buttermilk Pancakes
+- **Lunch** (4) — Heirloom Garden Salad, Maine Lobster Roll, Truffle Croque Monsieur, Seared Tuna Niçoise
+- **Dinner** (4) — Wagyu Tenderloin, Herb-Crusted Rack of Lamb, Seared Scallops, Clams in White Wine
+- **Indian** (5) — Murgh Makhani, Lamb Hyderabadi Biryani, Paneer Tikka, Dal Makhani, Masala Dosa
+- **Chinese** (5) — Peking Duck Pancakes, Shanghai Xiao Long Bao, Kung Pao Chicken, Mapo Tofu, Dim Sum Selection
+- **Desserts** (3) — Meringue Jardin, Chocolate & Caramel Ganache, Gulab Jamun
+
+Each category now has its own poetic subheader (e.g. "From India — slow-cooked, tandoor-kissed, and spiced with intent") and imagery tuned to the cuisine. The masonry reflow and all existing flows (detail sheet → cart → checkout → confirmation) work unchanged with the new data.
+
+Next suggestions if you want to go further:
+- Add spice-level indicators (mild / medium / fiery) to Indian/Chinese items
+- Add a "Chef's Picks" strip at the top that surfaces one signature per cuisine
+- Let guests filter by dietary chips (veg / gf / spicy / signature)
 
 ## Original Problem Statement
 Create a luxury-tier, mobile-first frontend for a hotel's digital ordering system, designed to mimic
